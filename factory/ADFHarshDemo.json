@@ -1,0 +1,9 @@
+{
+	"name": "ADFHarshDemo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d332c03-72c6-4c18-9605-1b01d4d7ef01",
+		"tenantId": "c81fdbde-c65c-4ed1-932a-d570c963c8be"
+	}
+}
